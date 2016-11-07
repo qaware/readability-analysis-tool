@@ -6,7 +6,7 @@
     <version>1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Readability Analysis Tool</name>
-    <url>https://github.com/qaware/readabiliy-analysis-tool</url>
+    <url>https://github.com/qaware/readability-analysis-tool</url>
 
     <distributionManagement>
         <repository>
@@ -20,8 +20,8 @@
     </distributionManagement>
 
     <scm>
-        <url>https://github.com/qaware/readabiliy-analysis-tool</url>
-        <developerConnection>scm:git:https://github.com/qaware/readabiliy-analysis-tool</developerConnection>
+        <url>https://github.com/qaware/readability-analysis-tool</url>
+        <developerConnection>scm:git:https://github.com/qaware/readability-analysis-tool</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
